@@ -9,7 +9,6 @@
 | あやかしトライアングル | Ayakashi triangle |
 | 暴食のベルセルク | Berserk of gluttony |
 | 僕の心のヤバイやつ | The dangers in my heart |
-| 道産子ギャルはなま� | Hokkaido Gals Are Super Adorable! |
 | デキる猫は今日も憂鬱 | The masterful cat is depressed again today |
 | 道産子ギャルはなま� | Hokkaido Gals Are Super Adorable! |
 | はめつのおうこく | The kingdoms of ruin |
@@ -45,6 +44,7 @@
 
 | Jap. | Eng. |
 | -------- | ------- |
+| 道産子ギャルはなま� | Hokkaido Gals Are Super Adorable! |
 | 便利屋斎藤さん、異世界に行く | Handyman Saitou in another world |
 | 僕の心のヤバイやつ 第2期 | The dangers in my heart S2 |
 | デスノート | Death note |
