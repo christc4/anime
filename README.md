@@ -9,7 +9,9 @@
 | あやかしトライアングル | Ayakashi triangle |
 | 暴食のベルセルク | Berserk of gluttony |
 | 僕の心のヤバイやつ | The dangers in my heart |
+| 道産子ギャルはなま� | Hokkaido Gals Are Super Adorable! |
 | デキる猫は今日も憂鬱 | The masterful cat is depressed again today |
+| 道産子ギャルはなま� | Hokkaido Gals Are Super Adorable! |
 | はめつのおうこく | The kingdoms of ruin |
 | 本好きの下剋上 ～司書になるためには手段を選んでいられません～ | Ascendance of a bookworm |
 | 本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第2期 | Ascendance of a bookworm S2 |
